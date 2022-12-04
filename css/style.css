@@ -116,16 +116,6 @@ li {
   animation: rotate-anime2 1900ms linear infinite;
 }
 
-@keyframes rotate-anime5 {
-  0% {
-    transform: rotateY(0deg);
-  }
-
-  100% {
-    transform: rotateY(360deg);
-  }
-}
-
 .start {
   opacity: 0;
 }
