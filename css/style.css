@@ -372,7 +372,7 @@ li {
 
 @keyframes rotate-anime2 {
   0% {
-    transform: rotateY(0deg)
+    transform: rotateY(0)
   }
 
   100% {
